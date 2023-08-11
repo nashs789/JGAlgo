@@ -61,7 +61,7 @@
 |13|2023-08-11|[4344](https://www.acmicpc.net/problem/4344)|||✅||✅|
 |14|2023-08-11|[2577](https://www.acmicpc.net/problem/2577)|||✅||✅|
 |15|2023-08-11|[15596](https://www.acmicpc.net/problem/15596)|||✅||✅|
-|16|2023-08-11|[11654](https://www.acmicpc.net/problem/11654)|||✅|||
+|16|2023-08-11|[11654](https://www.acmicpc.net/problem/11654)|||✅||✅|
 |17|2023-08-11|[2675](https://www.acmicpc.net/problem/2675)|||✅||✅|
 |18|2023-08-11|[1152](https://www.acmicpc.net/problem/1152)|||✅||✅|
 |19|2023-08-11|[2908](https://www.acmicpc.net/problem/2908)|||✅|||
