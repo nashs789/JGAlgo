@@ -46,23 +46,23 @@
 
 |No|기한|문제번호|이인복|정동환|이현진
 |:-:|------|:-----:|:-----:|:-----:|:-----:|
-|1|2023-08-11|[2557](https://www.acmicpc.net/problem/2557)| ✅ |-----|-----|
-|2|2023-08-11|[10869](https://www.acmicpc.net/problem/10869)| ✅ |-----|-----|
-|3|2023-08-11|[2588](https://www.acmicpc.net/problem/2588)| ✅ |-----|-----|
-|4|2023-08-11|[9498](https://www.acmicpc.net/problem/9498)| ✅ |-----|-----|
-|5|2023-08-11|[2753](https://www.acmicpc.net/problem/2753)| ✅ |-----|-----|
-|6|2023-08-11|[1085](https://www.acmicpc.net/problem/1085)| ✅ |-----|-----|
-|7|2023-08-11|[2739](https://www.acmicpc.net/problem/2739)| ✅ |-----|-----|
-|8|2023-08-11|[10950](https://www.acmicpc.net/problem/10950)| ✅ |-----|-----|
-|9|2023-08-11|[2438](https://www.acmicpc.net/problem/2438)| ✅ |-----|-----|
-|10|2023-08-11|[10871](https://www.acmicpc.net/problem/10871)| ✅ |-----|-----|
-|11|2023-08-11|[2562](https://www.acmicpc.net/problem/2562)| ✅ |-----|-----|
-|12|2023-08-11|[8958](https://www.acmicpc.net/problem/8958)| ✅ |-----|-----|
-|13|2023-08-11|[4344](https://www.acmicpc.net/problem/4344)| ✅ |-----|-----|
-|14|2023-08-11|[2577](https://www.acmicpc.net/problem/2577)| ✅ |-----|-----|
-|15|2023-08-11|[15596](https://www.acmicpc.net/problem/15596)| ✅ |-----|-----|
-|16|2023-08-11|[11654](https://www.acmicpc.net/problem/11654)| ✅ |-----|-----|
-|17|2023-08-11|[2675](https://www.acmicpc.net/problem/2675)| ✅ |-----|-----|
-|18|2023-08-11|[1152](https://www.acmicpc.net/problem/1152)| ✅ |-----|-----|
-|19|2023-08-11|[2908](https://www.acmicpc.net/problem/2908)| ✅ |-----|-----|
-|20|2023-08-11|[2869](https://www.acmicpc.net/problem/2869)| ✅ |-----|-----|
+|1|2023-08-11|[2557](https://www.acmicpc.net/problem/2557)| ✅ |✅|✅|
+|2|2023-08-11|[10869](https://www.acmicpc.net/problem/10869)| ✅ |✅|✅|
+|3|2023-08-11|[2588](https://www.acmicpc.net/problem/2588)| ✅ |✅|✅|
+|4|2023-08-11|[9498](https://www.acmicpc.net/problem/9498)| ✅ |✅|✅|
+|5|2023-08-11|[2753](https://www.acmicpc.net/problem/2753)| ✅ |✅|✅|
+|6|2023-08-11|[1085](https://www.acmicpc.net/problem/1085)| ✅ |✅|✅|
+|7|2023-08-11|[2739](https://www.acmicpc.net/problem/2739)| ✅ |✅|✅|
+|8|2023-08-11|[10950](https://www.acmicpc.net/problem/10950)| ✅ |✅|✅|
+|9|2023-08-11|[2438](https://www.acmicpc.net/problem/2438)| ✅ |✅|✅|
+|10|2023-08-11|[10871](https://www.acmicpc.net/problem/10871)| ✅ |✅|✅|
+|11|2023-08-11|[2562](https://www.acmicpc.net/problem/2562)| ✅ |✅|✅|
+|12|2023-08-11|[8958](https://www.acmicpc.net/problem/8958)| ✅ |✅|✅|
+|13|2023-08-11|[4344](https://www.acmicpc.net/problem/4344)| ✅ ||✅|
+|14|2023-08-11|[2577](https://www.acmicpc.net/problem/2577)| ✅ ||✅|
+|15|2023-08-11|[15596](https://www.acmicpc.net/problem/15596)| ✅ ||✅|
+|16|2023-08-11|[11654](https://www.acmicpc.net/problem/11654)| ✅ |||
+|17|2023-08-11|[2675](https://www.acmicpc.net/problem/2675)| ✅ ||✅|
+|18|2023-08-11|[1152](https://www.acmicpc.net/problem/1152)| ✅ ||✅|
+|19|2023-08-11|[2908](https://www.acmicpc.net/problem/2908)| ✅ |||
+|20|2023-08-11|[2869](https://www.acmicpc.net/problem/2869)| ✅ |||
