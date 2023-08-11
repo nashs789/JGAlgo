@@ -82,5 +82,5 @@
 |21|2023-08-12|[1978](https://www.acmicpc.net/problem/1978)|소수 찾기|Bronze 2|✅|❌|❌|
 |22|2023-08-12|[9020](https://www.acmicpc.net/problem/9020)|골드바흐의 추측|Silver 2|✅|❌|❌|
 |23|2023-08-12|[1065](https://www.acmicpc.net/problem/1065)|한수|Silver 4|✅|❌|❌|
-|24|2023-08-12|[2628](https://www.acmicpc.net/problem/2628)|종이자르기|Silver 5|❌|❌|❌|
+|24|2023-08-12|[2628](https://www.acmicpc.net/problem/2628)|종이자르기|Silver 5|✅|❌|❌|
 |25|2023-08-12|[10872](https://www.acmicpc.net/problem/10872)|팩토리얼|Bronze 5|❌|⚠️|❌|
