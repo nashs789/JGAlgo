@@ -20,7 +20,7 @@ col = sorted(col)
 
 curX = 0
 curY = 0
-maxV = 0;
+maxV = 0
 
 for r in row:
     for c in col:
