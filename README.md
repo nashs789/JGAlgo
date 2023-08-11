@@ -87,7 +87,7 @@
 |23|2023-08-12|[1065](https://www.acmicpc.net/problem/1065)|한수|Silver 4|✅|❌|❌|
 |24|2023-08-12|[2628](https://www.acmicpc.net/problem/2628)|종이자르기|Silver 5|✅|✅|❌|
 |25|2023-08-12|[10872](https://www.acmicpc.net/problem/10872)|팩토리얼|Bronze 5|✅|⚠️|❌|
-|26|2023-08-13|[5568](https://www.acmicpc.net/problem/5568)|카드놓기|Silver 4|❌|❌|❌|
+|26|2023-08-13|[5568](https://www.acmicpc.net/problem/5568)|카드놓기|Silver 4|✅|❌|❌|
 |27|2023-08-13|[17478](https://www.acmicpc.net/problem/17478)|재귀함수가 뭔가요?|Silver 5|❌|❌|❌|
 |28|2023-08-13|[1914](https://www.acmicpc.net/problem/1914)|하노이 탑|Silver 1|❌|❌|❌|
 |29|2023-08-13|[9663](https://www.acmicpc.net/problem/9663)|N-Queen|Gold 4|❌|❌|❌|
