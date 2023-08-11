@@ -74,7 +74,7 @@
 |10|2023-08-11|[10871](https://www.acmicpc.net/problem/10871)|X보다 작은 수|Bronze 5|✅|✅|✅|
 |11|2023-08-11|[2562](https://www.acmicpc.net/problem/2562)|최댓값|Bronze 3|✅|✅|✅|
 |12|2023-08-11|[8958](https://www.acmicpc.net/problem/8958)|OX퀴즈|Bronze 2|✅|✅|✅|
-|13|2023-08-11|[4344](https://www.acmicpc.net/problem/4344)|평균은 넘겠지|Bronze 1|✅|❌|✅|
+|13|2023-08-11|[4344](https://www.acmicpc.net/problem/4344)|평균은 넘겠지|Bronze 1|✅|✅|✅|
 |14|2023-08-11|[2577](https://www.acmicpc.net/problem/2577)|숫자의 개수|Bronze 2|✅|✅|✅|
 |15|2023-08-11|[15596](https://www.acmicpc.net/problem/15596)|정수 N개의 합|Bronze 2|✅|✅|✅|
 |16|2023-08-11|[11654](https://www.acmicpc.net/problem/11654)|아스키 코드|Bronze 5|✅|✅|❌|
