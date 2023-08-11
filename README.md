@@ -46,17 +46,17 @@
 
 |No|기한|문제번호|문제명|난이도|이인복|정동환|이현진
 |:-:|------|:-----:|-------|:-----:|:-----:|:-----:|:-----:|
-|1|2023-08-11|[2557](https://www.acmicpc.net/problem/2557)|Hello World|Bronze 5|✅|✅|✅|
-|2|2023-08-11|[10869](https://www.acmicpc.net/problem/10869)|사칙연산|Bronze 5|✅|✅|✅|
-|3|2023-08-11|[2588](https://www.acmicpc.net/problem/2588)|곱셈|Bronze 3|✅|✅|✅|
-|4|2023-08-11|[9498](https://www.acmicpc.net/problem/9498)|시험 성적|Bronze 5|✅|✅|✅|
-|5|2023-08-11|[2753](https://www.acmicpc.net/problem/2753)|윤년|Bronze 5|✅|✅|✅|
-|6|2023-08-11|[1085](https://www.acmicpc.net/problem/1085)|직사각형에서 탈출|Bronze 3|✅|✅|✅|
-|7|2023-08-11|[2739](https://www.acmicpc.net/problem/2739)|구구단|ronze 5|✅|✅|✅|
-|8|2023-08-11|[10950](https://www.acmicpc.net/problem/10950)|A + B - 3|Bronze 5|✅|✅|✅|
-|9|2023-08-11|[2438](https://www.acmicpc.net/problem/2438)|별 찍기 - 1|Bronze 5|✅|✅|✅|
-|10|2023-08-11|[10871](https://www.acmicpc.net/problem/10871)|X보다 작은 수|Bronze 5|✅|✅|✅|
-|11|2023-08-11|[2562](https://www.acmicpc.net/problem/2562)|최댓값|Bronze 3|✅|✅|✅|
+|1|2023-08-11|[2557](https://www.acmicpc.net/problem/2557)|||✅|✅|✅|
+|2|2023-08-11|[10869](https://www.acmicpc.net/problem/10869)|||✅|✅|✅|
+|3|2023-08-11|[2588](https://www.acmicpc.net/problem/2588)|||✅|✅|✅|
+|4|2023-08-11|[9498](https://www.acmicpc.net/problem/9498)|||✅|✅|✅|
+|5|2023-08-11|[2753](https://www.acmicpc.net/problem/2753)|||✅|✅|✅|
+|6|2023-08-11|[1085](https://www.acmicpc.net/problem/1085)|||✅|✅|✅|
+|7|2023-08-11|[2739](https://www.acmicpc.net/problem/2739)|||✅|✅|✅|
+|8|2023-08-11|[10950](https://www.acmicpc.net/problem/10950)|||✅|✅|✅|
+|9|2023-08-11|[2438](https://www.acmicpc.net/problem/2438)|||✅|✅|✅|
+|10|2023-08-11|[10871](https://www.acmicpc.net/problem/10871)|||✅|✅|✅|
+|11|2023-08-11|[2562](https://www.acmicpc.net/problem/2562)|||✅|✅|✅|
 |12|2023-08-11|[8958](https://www.acmicpc.net/problem/8958)|||✅|✅|✅|
 |13|2023-08-11|[4344](https://www.acmicpc.net/problem/4344)|||✅|❌|✅|
 |14|2023-08-11|[2577](https://www.acmicpc.net/problem/2577)|||✅|❌|✅|
