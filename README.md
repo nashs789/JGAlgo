@@ -4,7 +4,10 @@
 
 ### ** 🗓매일 회고 규칙**
 - 장소: 정글 휴게실
-- 시간: 매일 04:00PM
+- 시간: 매일
+    - 10:00 AM
+    - 04:00 PM (+ 교재 발표 및 토론)
+    - 20:00 PM 
 - 무엇을?
     - 알고리즘 문제 풀이중 새롭게 알게된 사실 팀원드과 공유
     - 어려움을 겪은 부분과 해결법 혹은 도움을 구하는 시간
@@ -82,5 +85,5 @@
 |21|2023-08-12|[1978](https://www.acmicpc.net/problem/1978)|소수 찾기|Bronze 2|✅|❌|❌|
 |22|2023-08-12|[9020](https://www.acmicpc.net/problem/9020)|골드바흐의 추측|Silver 2|✅|❌|❌|
 |23|2023-08-12|[1065](https://www.acmicpc.net/problem/1065)|한수|Silver 4|✅|❌|❌|
-|24|2023-08-12|[2628](https://www.acmicpc.net/problem/2628)|종이자르기|Silver 5|✅|❌|❌|
+|24|2023-08-12|[2628](https://www.acmicpc.net/problem/2628)|종이자르기|Silver 5|✅|✅|❌|
 |25|2023-08-12|[10872](https://www.acmicpc.net/problem/10872)|팩토리얼|Bronze 5|❌|⚠️|❌|
