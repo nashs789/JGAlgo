@@ -90,7 +90,7 @@
 |26|2023-08-13|[5568](https://www.acmicpc.net/problem/5568)|카드놓기|Silver 4|✅|✅|❌|
 |27|2023-08-13|[17478](https://www.acmicpc.net/problem/17478)|재귀함수가 뭔가요?|Silver 5|✅|❌|❌|
 |28|2023-08-13|[1914](https://www.acmicpc.net/problem/1914)|하노이 탑|Silver 1|❌|❌|❌|
-|29|2023-08-13|[9663](https://www.acmicpc.net/problem/9663)|N-Queen|Gold 4|❌|❌|❌|
+|29|2023-08-13|[9663](https://www.acmicpc.net/problem/9663)|N-Queen|Gold 4|✅|❌|❌|
 |30|2023-08-13|[1074](https://www.acmicpc.net/problem/1074)|Z|Silver 1|❌|❌|❌|
 |31|2023-08-14|[2750](https://www.acmicpc.net/problem/2750)|수 정렬하기|Bronze 2|❌|❌|❌|
 |32|2023-08-14|[2751](https://www.acmicpc.net/problem/2751)|수 정렬하기2|Silver 5|❌|❌|❌|
