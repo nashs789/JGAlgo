@@ -1,4 +1,16 @@
-from itertools import permutations
+def gen_permutation(n, depth, P):
+    result = []
+    if depth == n:
+        return[P]
+    else:
+        for i in range (len(card_list)):
+            if chosen[i] == True:
+                continue
+            chosen[i] = True
+            result += gen_permutation(n, depth+1, P+[i])
+            chosen[i] = False
+    return result
+
 
 n = int(input())
 k = int(input())
@@ -6,14 +18,33 @@ card_list = []
 for i in range(0,n):
     card = int(input())
     card_list.append(card)
+    chosen = [False for _ in range(len(card_list))]
+print(gen_permutation(card_list,k,[]))   
 
-perm = list(permutations(card_list,k))
-
+perm = list(gen_permutation(card_list,k,[]))
 answer_set = set()
 for i in perm:
     joined =int(''.join(map(str,i)))
     answer_set.add(joined)
 print(len(answer_set))
+
+
+#from itertools import permutations
+
+#n = int(input())
+#k = int(input())
+#card_list = []
+#for i in range(0,n):
+#    card = int(input())
+#    card_list.append(card)
+
+#perm = list(permutations(card_list,k))
+
+#answer_set = set()
+#for i in perm:
+#    joined =int(''.join(map(str,i)))
+#    answer_set.add(joined)
+#print(len(answer_set))
 
 #순열, 조합
 #파이썬에서 from itertools import permutation (순열) ,combination (조합) 으로 간단하게 할 수 있음
