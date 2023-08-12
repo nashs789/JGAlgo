@@ -6,8 +6,9 @@ def hansu(n):
     elif n == 1000:
         return False
     else:
-        num_list = list(map(int, str(n)))
-        if num_list[2] - num_list[1] == num_list[1] - num_list[0]:
+        num_list = list(map(int, str(n))) 
+        #int 타입 데이터는 map으로 나눌 수 없으므로 str로 변환한 다음 map 메소드로 int로 선언하여 리스트에 넣었음
+        if num_list[2] - num_list[1] == num_list[1] - num_list[0]: #각 자리수 간 차이 비교
             return True
         else:
             return False
