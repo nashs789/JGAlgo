@@ -1,15 +1,17 @@
-def gen_permutation(n, depth, P):
-    result = []
-    if depth == n:
-        return[P]
-    else:
-        for i in range (len(card_list)):
-            if chosen[i] == True:
-                continue
-            chosen[i] = True
-            result += gen_permutation(n, depth+1, P+[i])
-            chosen[i] = False
-    return result
+def permutation(index, temp_permutation):
+    if index == k:
+        answer_set.add(''.join(temp_permutation))
+        return
+    
+    for i in range(len(card_list)):
+        if visited[i]:
+            continue
+        else:
+            temp_permutation.append(str(card_list[i]))
+            visited[i] = True
+            permutation(index + 1, temp_permutation)
+            visited[i] = False
+            temp_permutation.pop()
 
 
 n = int(input())
@@ -18,15 +20,23 @@ card_list = []
 for i in range(0,n):
     card = int(input())
     card_list.append(card)
-    chosen = [False for _ in range(len(card_list))]
-print(gen_permutation(card_list,k,[]))   
 
-perm = list(gen_permutation(card_list,k,[]))
+visited = []
+for i in range(len(card_list)):
+    visited.append(False)
+
 answer_set = set()
-for i in perm:
-    joined =int(''.join(map(str,i)))
-    answer_set.add(joined)
+
+permutation(0,[])
+
 print(len(answer_set))
+
+
+
+#for i in perm:
+#    joined =int(''.join(map(str,i)))
+#    answer_set.add(joined)
+#print(len(answer_set))
 
 
 #from itertools import permutations
