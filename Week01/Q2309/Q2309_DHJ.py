@@ -21,12 +21,14 @@ maybe_list = combinations(dwarves, 7)
 
 for i in maybe_list:
     if sum(i) == 100:
+        i.sort()
+
         for j in i:
             print(j)
-        break
-    break
+        break #출력이 끝나면 반복문을 멈추는 위치가 중요했다.
 
-#list 내 요소의 합 구하기: sum_list = sum(list)
+
+#list 내 요소의 합 구하기: sum_list = sum(list)a
 #9C7 조합으로 임의의 난쟁이 7명을 뽑고 maybe_list.append()
 #if sum(maybe_list) == 100:
 # return maybe_list
