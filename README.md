@@ -109,5 +109,5 @@
 |45|2023-08-16|[2805](https://www.acmicpc.net/problem/2805)|나무 자르기|Silver 2|✅|❌|❌|
 |46|2023-08-17|[2110](https://www.acmicpc.net/problem/2110)|공유기 설치|Gold 4|✅|❌|❌|
 |47|2023-08-17|[2470](https://www.acmicpc.net/problem/2470)|두 용액|Gold 5|✅|❌|❌|
-|48|2023-08-17|[16564](https://www.acmicpc.net/problem/16564)|히오스 프로게이머|Silver 1|❌|❌|❌|
+|48|2023-08-17|[16564](https://www.acmicpc.net/problem/16564)|히오스 프로게이머|Silver 1|✅|❌|❌|
 |49|2023-08-17|[8983](https://www.acmicpc.net/problem/8983)|사냥꾼|Gold 4|❌|❌|❌|
