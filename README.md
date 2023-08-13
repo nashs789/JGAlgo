@@ -92,7 +92,7 @@
 |28|2023-08-13|[1914](https://www.acmicpc.net/problem/1914)|하노이 탑|Silver 1|❌|❌|❌|
 |29|2023-08-13|[9663](https://www.acmicpc.net/problem/9663)|N-Queen|Gold 4|✅|❌|❌|
 |30|2023-08-13|[1074](https://www.acmicpc.net/problem/1074)|Z|Silver 1|✅|✅|❌|
-|31|2023-08-14|[2750](https://www.acmicpc.net/problem/2750)|수 정렬하기|Bronze 2|❌|❌|❌|
+|31|2023-08-14|[2750](https://www.acmicpc.net/problem/2750)|수 정렬하기|Bronze 2|❌|✅|❌|
 |32|2023-08-14|[2751](https://www.acmicpc.net/problem/2751)|수 정렬하기2|Silver 5|❌|❌|❌|
 |33|2023-08-14|[10989](https://www.acmicpc.net/problem/10989)|수 정렬하기3|Bronze 1|❌|❌|❌|
 |34|2023-08-14|[1181](https://www.acmicpc.net/problem/1181)|단어 정렬|Silver 5|✅|❌|❌|
@@ -106,7 +106,7 @@
 |42|2023-08-16|[10830](https://www.acmicpc.net/problem/10830)|행렬 제곱|Gold 4|❌|❌|❌|
 |43|2023-08-16|[2261](https://www.acmicpc.net/problem/2261)|가장 가까운 두 점|Platinum 2|❌|❌|❌|
 |44|2023-08-16|[1920](https://www.acmicpc.net/problem/1920)|수 찾기|Silver 4|❌|❌|❌|
-|45|2023-08-16|[2805](https://www.acmicpc.net/problem/2805)|나무 자르기|Silver 2|❌|❌|❌|
+|45|2023-08-16|[2805](https://www.acmicpc.net/problem/2805)|나무 자르기|Silver 2|✅|❌|❌|
 |46|2023-08-17|[2110](https://www.acmicpc.net/problem/2110)|공유기 설치|Gold 4|❌|❌|❌|
 |47|2023-08-17|[2470](https://www.acmicpc.net/problem/2470)|두 용액|Gold 5|❌|❌|❌|
 |48|2023-08-17|[16564](https://www.acmicpc.net/problem/16564)|히오스 프로게이머|Silver 1|❌|❌|❌|
