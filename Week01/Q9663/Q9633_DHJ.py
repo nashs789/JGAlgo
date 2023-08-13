@@ -20,7 +20,9 @@ def queen(x):
         for i in range(N):
             row[x] = i #(x, i)에 말을 놓을 수 있나?
             if is_possible(x): #가능하다면
-                queen(x + 1)
+                queen(x+1)
 
 queen(0)
 print(answer)
+
+#global 로 전역변수를 사용할 때 함수 밖에서 선언한다면 함수 안에서 사용할 때 또 global로 전역 변수를 선언해야 함.
