@@ -21,7 +21,7 @@ maybe_list = combinations(dwarves, 7)
 
 for i in maybe_list:
     if sum(i) == 100:
-        i.sort()
+        i.sort() #키가 오름차순으로 표기되어야 하니 정렬!
 
         for j in i:
             print(j)

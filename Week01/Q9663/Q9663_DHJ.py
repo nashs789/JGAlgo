@@ -3,24 +3,34 @@ import sys
 N = int(sys.stdin.readline())
 
 answer = 0
-row = [0] * N # N = 2 라면 [0, 0], N = 4 라면 [0, 0, 0, 0] 이 표시됨
+position = [0] * N
+row = [False] * N
+idx_7 = [False] * (2 * N - 1)
+idx_4 = [False] * (2 * N - 1)
 
-def is_possible(x):
-    for i in range(x):
-        if row[x] == row[i] or abs(row[x] - row[i]) == abs(x - i):
+def is_possible(i):
+    for j in range(i):
+        if row[j] or idx_7[j+i] or idx_4[j-i+N-1]:
             return False
     return True
 
-def queen(x):
-    global answer #global
-    if x == N:
+def queen(i):
+    global answer
+
+    if i == N:
         answer += 1
         return
     else:
-        for i in range(N):
-            row[x] = i #(x, i)에 말을 놓을 수 있나?
-            if is_possible(x): #가능하다면
-                queen(x+1)
+        for j in range(N):
+            position[i] = j
+            if is_possible(i):
+                row[j] = True
+                idx_7[j+i] = True
+                idx_4[j-i+N-1] = True
+                queen(i+1)
+                row[j] = False
+                idx_7[j+i] = False
+                idx_4[j-i+N-1] = False
 
 queen(0)
 print(answer)
