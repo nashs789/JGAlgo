@@ -27,7 +27,7 @@ def perm(n, k):
             new_list.append(i)
         possible_route_list.append(new_list)
 
-        
+
     else:
         for i in range(0, n):
             if visited[i] : continue
@@ -53,7 +53,7 @@ for route in possible_route_list:
 
         if cost == 0:
           pass
-        
+
         total_cost.append(cost)
 
     sum_total_cost = sum(total_cost)
