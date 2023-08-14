@@ -38,7 +38,8 @@ print(M - minimum_value)
 
 #card_list 에서 조합 N C 3으로 가능한 조합을 담은 maybe_list 생성
 #for maybe in maybe_list:
-#  list.append(M - sum(maybe)) # 각 조합의 합과 M 과의 차이를 담은 list 생성
+#  list.append(M - sum(maybe)) 
+# # 각 조합의 합과 M 과의 차이를 담은 list 생성
 #이 때 가능한 리스트 내 요소들의 합을 더했을 때(즉, sum(maybe)가) M보다 크면 안 됨!
 #min(list) 로 최소값 계산
 # M - min(list) 를 출력
