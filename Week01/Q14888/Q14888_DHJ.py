@@ -49,6 +49,7 @@ perm(len(operator_list), 0)
 print(max(answer_list))
 print(min(answer_list))
 
+#python으로 돌리면 시간 초과 함 pypy로 돌렸음
 # print(possible_list_list)
 # value_list = []
 # for sub_list in possible_list_list:
