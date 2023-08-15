@@ -17,7 +17,6 @@ def backtrack(cardIdx, combIdx):
         visited[i] = True
         backtrack(cardIdx+1, combIdx+1)
         visited[i] = False
-        combLst[ combIdx ] = 0
 
 visited = [False]*N
 combLst = [0]*3
