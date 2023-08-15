@@ -5,7 +5,7 @@ for _ in range(9):
 
 diff = sum(dwarfs) - 100
 flag = False
-for k in range(0, 9):
+for k in range(0, 8):
     if flag : break
     for i in range(k+1, 9):
         if dwarfs[k] + dwarfs[i] == diff:
