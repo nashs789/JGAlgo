@@ -7,7 +7,7 @@ visited1 = [False] * N
 visited2 = [False] * (N * 2 - 1)
 visited3 = [False] * (N * 2 - 1)
 
-def backTracking(row) -> None:
+def backTracking(row:int) -> None:
     global answer
     
     if row == N:
@@ -15,7 +15,7 @@ def backTracking(row) -> None:
         return
     
     for idx in range(N):
-        if(not visited1[idx] and not visited2[row + idx] and not visited3[row - idx + (N - 1)]):
+        if not visited1[idx] and not visited2[row + idx] and not visited3[row - idx + (N - 1)]:
             visited1[idx] = visited2[row + idx] = visited3[row - idx + (N - 1)] = True
             backTracking(row + 1)
             visited1[idx] = visited2[row + idx] = visited3[row - idx + (N - 1)] = False
