@@ -1,11 +1,34 @@
+def queen(x):
+    global answer
+
+    if x == N:
+        answer += 1
+        return
+    
+    else:
+        for i in range(N):
+            row[x] = i #[x, i]에 해당하는 칸에 퀸을 놓다.
+            if is_possible(x):
+                queen(x+1)
 
 
+def is_possible(n):
+    for i in range(n):
+        if (row[n] == row[i]) or abs(row[n] - row[i]) == abs(n - i): #대각전에 겹치는 퀸이 없는지 확인
+            return False
+    return True
+
+import sys
+N = int(sys.stdin.readline())
+row = [0] * N
+answer = 0
+
+queen(0)
+print(answer)
 
 
-
-
-
-
+#pypy 로 실행함
+#python은 시간초과
 
 
 
