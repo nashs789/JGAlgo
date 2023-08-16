@@ -1,26 +1,23 @@
 import sys
-N, K = map(int, sys.stdin.readline().split())
+n, k = map(int, sys.stdin.readline().split())
+levels = [int(sys.stdin.readline()) for _ in range(n)]
 
-level = list(int(sys.stdin.readline()) for i in range(N))
-level.sort()
+start = min(levels)
+end = start + k
 
-T = level[0]
-gap = []
-for i in range(0, N - 1):
-    gap.append(level[i + 1] - level[i])
+res = 0
+while start <= end:
+    mid = (start + end) // 2
 
+    sum = 0
 
-#K <= gap[0] % 1 + gap[1] % 2 + gap[2] % 3 + 4*gap[3] + ...
-
-for i in range(len(gap)):
-    if K >= gap[i] * (i + 1):
-        T = T + gap[i]
-        K = K - gap[i] * (i + 1)
+    for level in levels:
+        if mid > level:
+           sum+= (mid - level)
+    if sum <= k:
+        start = mid + 1
+        res = max(mid, res)
     else:
-        T = T + K // (i + 1)
+        end = mid - 1
 
-if level[-1] == T:
-    T = T + (K // N)
-#이후로 모든 캐릭터의 레벨이 같아졌다면 남은 K 를 N 으로 나눈 몫만큼 레벨이 올라간다.
-
-print(T)
+print(res)

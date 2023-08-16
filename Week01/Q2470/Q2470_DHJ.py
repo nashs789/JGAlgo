@@ -3,7 +3,7 @@ N = int(sys.stdin.readline())
 ph = list(map(int, sys.stdin.readline().split()))
 ph.sort()
 
-start = 0
+start = 0 #시작과 끝을 배열 내 요소가 아닌 인덱스로 설정
 end = N - 1
 
 answer = abs(ph[start] + ph[end])
