@@ -100,8 +100,8 @@
 |36|2023-08-15|[2798](https://www.acmicpc.net/problem/2798)|블랙잭|Bronze 2|✅|✅|✅|
 |37|2023-08-15|[10819](https://www.acmicpc.net/problem/10819)|차이를 최대로|Silver 2|✅|✅|✅|
 |38|2023-08-15|[10971](https://www.acmicpc.net/problem/10971)|외판원 순회 2|Silver 2|✅|⚠️|❌|
-|40|2023-08-15|[2630](https://www.acmicpc.net/problem/2630)|색종이 만들기|Silver 2|✅|⚠️|❌|
 |39|2023-08-15|[14888](https://www.acmicpc.net/problem/14888)|연산자 끼워넣기|Silver 1|✅|✅|⚠️|
+|40|2023-08-15|[2630](https://www.acmicpc.net/problem/2630)|색종이 만들기|Silver 2|✅|⚠️|⚠️|
 |41|2023-08-16|[1629](https://www.acmicpc.net/problem/1629)|곱셈|Silver 1|⚠️|⚠️|❌|
 |42|2023-08-16|[10830](https://www.acmicpc.net/problem/10830)|행렬 제곱|Gold 4|⚠️|❌|❌|
 |43|2023-08-16|[2261](https://www.acmicpc.net/problem/2261)|가장 가까운 두 점|Platinum 2|⚠️|❌|❌|
