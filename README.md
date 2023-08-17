@@ -65,7 +65,7 @@
 |2|08-24|[10883](https://www.acmicpc.net/problem/10883)|제로|Silver 4|✅|❌|❌|❌|
 |3|08-24|[9012](https://www.acmicpc.net/problem/9012)|괄호|Silver 4|✅|❌|❌|❌|
 |4|08-24|[17608](https://www.acmicpc.net/problem/17608)|막대기|Bronze 2|✅|❌|❌|❌|
-|5|08-24|[2504](https://www.acmicpc.net/problem/2504)|괄호의 값|Gold 4|❌|❌|❌|❌|
+|5|08-24|[2504](https://www.acmicpc.net/problem/2504)|괄호의 값|Gold 4|✅|❌|❌|❌|
 |6|08-24|[2493](https://www.acmicpc.net/problem/2493)|탑|Gold 5|❌|❌|❌|❌|
 |7|08-24|[2812](https://www.acmicpc.net/problem/2812)|크게 만들기|Gold 3|❌|❌|❌|❌|
 |8|08-24|[10000](https://www.acmicpc.net/problem/10000)|원 영역|Platinum 4|❌|❌|❌|❌|
