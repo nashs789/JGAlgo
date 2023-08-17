@@ -1,0 +1,21 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+/discord.xml
+/Memo/Filter/filterTest.py
+/.idea/JGAlgo.iml
+/Memo/Map/mapTest.py
+/Memo/Min/minTest.py
+/.idea/misc.xml
+/.idea/modules.xml
+/Memo/Filter/README.md
+/Memo/Map/README.md
+/Memo/Min/README.md
+/Memo/Switch/README.md
+/Memo/Switch/switchTest.py
+/.idea/vcs.xml

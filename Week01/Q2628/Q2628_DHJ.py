@@ -19,3 +19,5 @@ for i in range(1, len(V_list)):
    minus_V_list.append(V_list[i] - V_list[i-1])
 
 print(max(minus_H_list) * max(minus_V_list))
+
+#알고리즘 관련 문제가 아니라 가로줄을 그으면 세로 축에 접점이 생긴다는 당연한 사실을 모르고 Horizon 과 Vertical 을 바꿔서 계산하는 삽질을 했다.
