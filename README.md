@@ -61,18 +61,18 @@
 
 |No|기한|문제번호|문제명|난이도|이인복|김호집|김지성|팀리뷰
 |:-:|------|:-----:|-------|:-----:|:-----:|:-----:|:-----:|:-----:|
-|1|08-24|[10828](https://www.acmicpc.net/problem/10828)|스택|Silver 4|✅|✅|❌|❌|
-|2|08-24|[10883](https://www.acmicpc.net/problem/10883)|제로|Silver 4|✅|✅|❌|❌|
-|3|08-24|[9012](https://www.acmicpc.net/problem/9012)|괄호|Silver 4|✅|✅|❌|❌|
-|4|08-24|[17608](https://www.acmicpc.net/problem/17608)|막대기|Bronze 2|✅|✅|❌|❌|
-|5|08-24|[2504](https://www.acmicpc.net/problem/2504)|괄호의 값|Gold 4|✅|❌|❌|❌|
+|1|08-24|[10828](https://www.acmicpc.net/problem/10828)|스택|Silver 4|✅|✅|✅|❌|
+|2|08-24|[10883](https://www.acmicpc.net/problem/10883)|제로|Silver 4|✅|✅|✅|❌|
+|3|08-24|[9012](https://www.acmicpc.net/problem/9012)|괄호|Silver 4|✅|✅|✅|❌|
+|4|08-24|[17608](https://www.acmicpc.net/problem/17608)|막대기|Bronze 2|✅|✅|✅|❌|
+|5|08-24|[2504](https://www.acmicpc.net/problem/2504)|괄호의 값|Gold 4|✅|❌|✅|❌|
 |6|08-24|[2493](https://www.acmicpc.net/problem/2493)|탑|Gold 5|❌|❌|❌|❌|
 |7|08-24|[2812](https://www.acmicpc.net/problem/2812)|크게 만들기|Gold 3|❌|❌|❌|❌|
 |8|08-24|[10000](https://www.acmicpc.net/problem/10000)|원 영역|Platinum 4|❌|❌|❌|❌|
 |9|08-24|[6549](https://www.acmicpc.net/problem/6549)|히스토그램에서 가장 큰 직사각형|Platinum 5|❌|❌|❌|❌|
-|10|08-24|[18258](https://www.acmicpc.net/problem/18258)|큐 2|Silver 4|❌|❌|❌|❌|
-|11|08-24|[2164](https://www.acmicpc.net/problem/2164)|카드 2|Silver 4|❌|❌|❌|❌|
-|12|08-24|[11866](https://www.acmicpc.net/problem/11866)|요세푸스 문제 0|Silver 5|❌|❌|❌|❌|
+|10|08-24|[18258](https://www.acmicpc.net/problem/18258)|큐 2|Silver 4|❌|❌|✅|❌|
+|11|08-24|[2164](https://www.acmicpc.net/problem/2164)|카드 2|Silver 4|❌|❌|✅|❌|
+|12|08-24|[11866](https://www.acmicpc.net/problem/11866)|요세푸스 문제 0|Silver 5|❌|❌|✅|❌|
 |13|08-24|[3190](https://www.acmicpc.net/problem/3190)|뱀|Gold 4|❌|❌|❌|❌|
 |14|08-24|[11279](https://www.acmicpc.net/problem/11279)|최대 힙|Silver 2|❌|❌|❌|❌|
 |15|08-24|[1655](https://www.acmicpc.net/problem/1655)|가운데를 말해요|Gold 2|❌|❌|❌|❌|
