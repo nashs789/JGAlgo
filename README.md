@@ -70,7 +70,7 @@
 |7|08-24|[2812](https://www.acmicpc.net/problem/2812)|크게 만들기|Gold 3|✅|❌|❌|❌|
 |8|08-24|[10000](https://www.acmicpc.net/problem/10000)|원 영역|Platinum 4|❌|❌|❌|❌|
 |9|08-24|[6549](https://www.acmicpc.net/problem/6549)|히스토그램에서 가장 큰 직사각형|Platinum 5|❌|❌|❌|❌|
-|10|08-24|[18258](https://www.acmicpc.net/problem/18258)|큐 2|Silver 4|❌|❌|✅|❌|
+|10|08-24|[18258](https://www.acmicpc.net/problem/18258)|큐 2|Silver 4|✅|❌|✅|❌|
 |11|08-24|[2164](https://www.acmicpc.net/problem/2164)|카드 2|Silver 4|❌|❌|✅|❌|
 |12|08-24|[11866](https://www.acmicpc.net/problem/11866)|요세푸스 문제 0|Silver 5|❌|❌|✅|❌|
 |13|08-24|[3190](https://www.acmicpc.net/problem/3190)|뱀|Gold 4|❌|❌|❌|❌|
