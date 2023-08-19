@@ -78,7 +78,7 @@
 |15|08-24|[1655](https://www.acmicpc.net/problem/1655)|가운데를 말해요|Gold 2|❌|❌|✅|❌|
 |16|08-24|[1715](https://www.acmicpc.net/problem/1715)|카드 정렬하기|Gold 4|❌|❌|✅|❌|
 |17|08-24|[13334](https://www.acmicpc.net/problem/13334)|철로|Gold 2|❌|❌|⚠️|❌|
-|18|08-24|[1991](https://www.acmicpc.net/problem/1991)|트리 순회|Silver 1|❌|❌|❌|❌|
+|18|08-24|[1991](https://www.acmicpc.net/problem/1991)|트리 순회|Silver 1|❌|❌|✅|❌|
 |19|08-24|[5639](https://www.acmicpc.net/problem/5639)|이진 검색 트리|Gold 5|❌|❌|❌|❌|
 |20|08-24|[1197](https://www.acmicpc.net/problem/1197)|최소 스패닝 트리|Gold 4|❌|❌|❌|❌|
 |21|08-24|[1260](https://www.acmicpc.net/problem/1260)|DFS와 BFS|Silver 2|❌|❌|❌|❌|
