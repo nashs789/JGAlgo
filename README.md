@@ -67,30 +67,30 @@
 |4|08-24|[17608](https://www.acmicpc.net/problem/17608)|막대기|Bronze 2|✅|✅|✅|✅|
 |5|08-24|[2504](https://www.acmicpc.net/problem/2504)|괄호의 값|Gold 4|✅|❌|✅|✅|
 |6|08-24|[2493](https://www.acmicpc.net/problem/2493)|탑|Gold 5|✅|❌|✅|✅|
-|7|08-24|[2812](https://www.acmicpc.net/problem/2812)|크게 만들기|Gold 3|✅|❌|✅|❌|
+|7|08-24|[2812](https://www.acmicpc.net/problem/2812)|크게 만들기|Gold 3|✅|❌|⚠️|❌|
 |8|08-24|[10000](https://www.acmicpc.net/problem/10000)|원 영역|Platinum 4|❌|❌|❌|❌|
 |9|08-24|[6549](https://www.acmicpc.net/problem/6549)|히스토그램에서 가장 큰 직사각형|Platinum 5|❌|❌|❌|❌|
 |10|08-24|[18258](https://www.acmicpc.net/problem/18258)|큐 2|Silver 4|✅|✅|✅|✅|
 |11|08-24|[2164](https://www.acmicpc.net/problem/2164)|카드 2|Silver 4|✅|✅|✅|✅|
 |12|08-24|[11866](https://www.acmicpc.net/problem/11866)|요세푸스 문제 0|Silver 5|✅|✅|✅|✅|
-|13|08-24|[3190](https://www.acmicpc.net/problem/3190)|뱀|Gold 4|✅|❌|⚠️|❌|
+|13|08-24|[3190](https://www.acmicpc.net/problem/3190)|뱀|Gold 4|✅|❌|❌|❌|
 |14|08-24|[11279](https://www.acmicpc.net/problem/11279)|최대 힙|Silver 2|✅|✅|✅|✅|
-|15|08-24|[1655](https://www.acmicpc.net/problem/1655)|가운데를 말해요|Gold 2|❌|❌|✅|✅|
-|16|08-24|[1715](https://www.acmicpc.net/problem/1715)|카드 정렬하기|Gold 4|❌|✅|✅|✅|
+|15|08-24|[1655](https://www.acmicpc.net/problem/1655)|가운데를 말해요|Gold 2|✅|❌|⚠️|✅|
+|16|08-24|[1715](https://www.acmicpc.net/problem/1715)|카드 정렬하기|Gold 4|✅|✅|✅|✅|
 |17|08-24|[13334](https://www.acmicpc.net/problem/13334)|철로|Gold 2|❌|✅|⚠️|❌|
 |18|08-24|[1991](https://www.acmicpc.net/problem/1991)|트리 순회|Silver 1|❌|✅|✅|❌|
-|19|08-24|[5639](https://www.acmicpc.net/problem/5639)|이진 검색 트리|Gold 5|❌|✅|❌|❌|
-|20|08-24|[1197](https://www.acmicpc.net/problem/1197)|최소 스패닝 트리|Gold 4|❌|❌|❌|❌|
-|21|08-24|[1260](https://www.acmicpc.net/problem/1260)|DFS와 BFS|Silver 2|❌|❌|❌|❌|
-|22|08-24|[11724](https://www.acmicpc.net/problem/11724)|연결 요소의 개수|Silver 2|❌|❌|❌|❌|
-|23|08-24|[2606](https://www.acmicpc.net/problem/2606)|바이러스|Silver 3|❌|❌|❌|❌|
-|24|08-24|[11725](https://www.acmicpc.net/problem/11725)|트리의 부모 찾기|Silver 2|❌|❌|❌|❌|
-|25|08-24|[1707](https://www.acmicpc.net/problem/1707)|이분 그래프|Gold 4|❌|❌|❌|❌|
+|19|08-24|[5639](https://www.acmicpc.net/problem/5639)|이진 검색 트리|Gold 5|❌|✅|⚠️|❌|
+|20|08-24|[1197](https://www.acmicpc.net/problem/1197)|최소 스패닝 트리|Gold 4|❌|❌|⚠️|❌|
+|21|08-24|[1260](https://www.acmicpc.net/problem/1260)|DFS와 BFS|Silver 2|✅|✅|⚠️|❌|
+|22|08-24|[11724](https://www.acmicpc.net/problem/11724)|연결 요소의 개수|Silver 2|✅|✅|⚠️|❌|
+|23|08-24|[2606](https://www.acmicpc.net/problem/2606)|바이러스|Silver 3|✅|✅|✅|❌|
+|24|08-24|[11725](https://www.acmicpc.net/problem/11725)|트리의 부모 찾기|Silver 2|✅|✅|❌|❌|
+|25|08-24|[1707](https://www.acmicpc.net/problem/1707)|이분 그래프|Gold 4|✅|❌|❌|❌|
 |26|08-24|[21606](https://www.acmicpc.net/problem/21606)|아침 산책|Gold 3|❌|❌|❌|❌|
-|27|08-24|[14888](https://www.acmicpc.net/problem/14888)|연산자 끼워넣기|Silver 1|❌|❌|❌|❌|
+|27|08-24|[14888](https://www.acmicpc.net/problem/14888)|연산자 끼워넣기|Silver 1|✅|❌|❌|❌|
 |28|08-24|[2573](https://www.acmicpc.net/problem/2573)|빙산|Gold 4|❌|❌|❌|❌|
 |29|08-24|[2617](https://www.acmicpc.net/problem/2617)|구슬 찾기|Gold 4|❌|❌|❌|❌|
-|30|08-24|[2178](https://www.acmicpc.net/problem/2178)|미로 탐색|Silver 1|❌|❌|❌|❌|
+|30|08-24|[2178](https://www.acmicpc.net/problem/2178)|미로 탐색|Silver 1|❌|❌|⚠️|❌|
 |31|08-24|[18352](https://www.acmicpc.net/problem/18352)|특정 거리의 도시 찾기|Silver 2|❌|❌|❌|❌|
 |32|08-24|[1916](https://www.acmicpc.net/problem/1916)|최소비용 구하기|Gold 5|❌|❌|❌|❌|
 |33|08-24|[2665](https://www.acmicpc.net/problem/2665)|미로 만들기|Gold 4|❌|❌|❌|❌|
