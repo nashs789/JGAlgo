@@ -53,9 +53,9 @@
     ex) [ Add - LIB ] Q7777_정글문제 풀이 및 커밋
 
 # **[📌 아이콘 의미 ]**
-- ✅: Solved
-- ⚠️: helped by
-- ❌: Not solved
+- ✅: By Myself
+- ⚠️: By help
+- ❌: Can not or Not yet
 
 # **[ 🗓 Week02 일정 ]**
 
