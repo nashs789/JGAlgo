@@ -85,7 +85,7 @@
 |22|08-24|[11724](https://www.acmicpc.net/problem/11724)|연결 요소의 개수|Silver 2|✅|✅|⚠️|❌|
 |23|08-24|[2606](https://www.acmicpc.net/problem/2606)|바이러스|Silver 3|✅|✅|✅|❌|
 |24|08-24|[11725](https://www.acmicpc.net/problem/11725)|트리의 부모 찾기|Silver 2|✅|✅|❌|❌|
-|25|08-24|[1707](https://www.acmicpc.net/problem/1707)|이분 그래프|Gold 4|❌|❌|❌|❌|
+|25|08-24|[1707](https://www.acmicpc.net/problem/1707)|이분 그래프|Gold 4|✅|❌|❌|❌|
 |26|08-24|[21606](https://www.acmicpc.net/problem/21606)|아침 산책|Gold 3|❌|❌|❌|❌|
 |27|08-24|[14888](https://www.acmicpc.net/problem/14888)|연산자 끼워넣기|Silver 1|✅|❌|❌|❌|
 |28|08-24|[2573](https://www.acmicpc.net/problem/2573)|빙산|Gold 4|❌|❌|❌|❌|
