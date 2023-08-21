@@ -86,7 +86,7 @@
 |23|08-24|[2606](https://www.acmicpc.net/problem/2606)|바이러스|Silver 3|✅|✅|✅|✅|
 |24|08-24|[11725](https://www.acmicpc.net/problem/11725)|트리의 부모 찾기|Silver 2|✅|✅|❌|✅|
 |25|08-24|[1707](https://www.acmicpc.net/problem/1707)|이분 그래프|Gold 4|✅|❌|❌|❌|
-|26|08-24|[21606](https://www.acmicpc.net/problem/21606)|아침 산책|Gold 3|❌|❌|❌|❌|
+|26|08-24|[21606](https://www.acmicpc.net/problem/21606)|아침 산책|Gold 3|✅|❌|❌|❌|
 |27|08-24|[14888](https://www.acmicpc.net/problem/14888)|연산자 끼워넣기|Silver 1|✅|❌|❌|❌|
 |28|08-24|[2573](https://www.acmicpc.net/problem/2573)|빙산|Gold 4|❌|❌|❌|❌|
 |29|08-24|[2617](https://www.acmicpc.net/problem/2617)|구슬 찾기|Gold 4|❌|❌|❌|❌|
