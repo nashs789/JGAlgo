@@ -1,41 +1,28 @@
 import sys
-from typing import Any,Type
-
-class Node:
-	def ___init__(self, key:Any, value:Any, left: Node=None, right: Node=None):
-		self.key = key
-		self.value = value
-		self.left = left
-		self.right = right
-		
-class BinarySearchTree:
-	
-    def __init__(self):
-        self.root = None
-    
-    def search(self, key:Any):
-        p = self.root
-        while True:
-            if p is None:
-                return None
-            if key == p.key:
-                return p.value
-            elif key < p.key:
-                p = p.left
-            else:
-            
-
+sys.setrecursionlimit(10**8)
 input = sys.stdin.readline
 
-root = int(input())
-tree = {}
+tree=[]
 
 while True:
-	try:
-		tree.append(int(input()))
-	except:
-		break
+    try:
+        tree.append(int(input()))
+    except:
+        break
 
+def postorder(start,end):
+    if start > end:
+        return
+    if start==end:
+        return tree[start]
+    
+    mid = end+1
+    for i in range(start+1,end+1):
+        if tree[i]>tree[0]:
+            mid = i
+            break
+    postorder(start+1,mid)
+    postorder(mid+1,end)
+    print(tree[start])
 
-
-binary_tree(0, len(tree)-1)
+postorder(0,len(tree)-1)

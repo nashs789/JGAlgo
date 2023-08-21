@@ -17,6 +17,7 @@ def before(root):
 			before(binary[root][0])
 		if binary[root]!='.':
 			before(binary[root][1])
+
 def middle(root):
 	if root=='.':
 		return
@@ -26,6 +27,7 @@ def middle(root):
 		print(root, end="")
 		if binary[root]!='.':
 			middle(binary[root][1])
+			
 def after(root):
 	if root=='.':
 		return
