@@ -91,8 +91,8 @@
 |28|08-24|[2573](https://www.acmicpc.net/problem/2573)|빙산|Gold 4|✅|❌|❌|❌|
 |29|08-24|[2617](https://www.acmicpc.net/problem/2617)|구슬 찾기|Gold 4|❌|❌|❌|❌|
 |30|08-24|[2178](https://www.acmicpc.net/problem/2178)|미로 탐색|Silver 1|✅|❌|⚠️|❌|
-|31|08-24|[18352](https://www.acmicpc.net/problem/18352)|특정 거리의 도시 찾기|Silver 2|❌|❌|❌|❌|
-|32|08-24|[1916](https://www.acmicpc.net/problem/1916)|최소비용 구하기|Gold 5|❌|❌|❌|❌|
+|31|08-24|[18352](https://www.acmicpc.net/problem/18352)|특정 거리의 도시 찾기|Silver 2|✅|❌|❌|❌|
+|32|08-24|[1916](https://www.acmicpc.net/problem/1916)|최소비용 구하기|Gold 5|✅|❌|❌|❌|
 |33|08-24|[2665](https://www.acmicpc.net/problem/2665)|미로 만들기|Gold 4|❌|❌|❌|❌|
 |34|08-24|[7569](https://www.acmicpc.net/problem/7569)|토마토|Gold 5|❌|❌|❌|❌|
 |35|08-24|[3055](https://www.acmicpc.net/problem/3055)|탈출|Gold 4|❌|❌|❌|❌|
