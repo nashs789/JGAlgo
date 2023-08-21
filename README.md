@@ -83,7 +83,7 @@
 |20|08-24|[1197](https://www.acmicpc.net/problem/1197)|최소 스패닝 트리|Gold 4|❌|❌|⚠️|❌|
 |21|08-24|[1260](https://www.acmicpc.net/problem/1260)|DFS와 BFS|Silver 2|✅|❌|⚠️|❌|
 |22|08-24|[11724](https://www.acmicpc.net/problem/11724)|연결 요소의 개수|Silver 2|✅|❌|⚠️|❌|
-|23|08-24|[2606](https://www.acmicpc.net/problem/2606)|바이러스|Silver 3|✅|❌|❌|❌|
+|23|08-24|[2606](https://www.acmicpc.net/problem/2606)|바이러스|Silver 3|✅|❌|✅|❌|
 |24|08-24|[11725](https://www.acmicpc.net/problem/11725)|트리의 부모 찾기|Silver 2|✅|❌|❌|❌|
 |25|08-24|[1707](https://www.acmicpc.net/problem/1707)|이분 그래프|Gold 4|❌|❌|❌|❌|
 |26|08-24|[21606](https://www.acmicpc.net/problem/21606)|아침 산책|Gold 3|❌|❌|❌|❌|
