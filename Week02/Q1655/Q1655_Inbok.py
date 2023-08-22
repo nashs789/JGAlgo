@@ -14,6 +14,7 @@ if __name__ == "__main__":
             heappush(front_heap, (-num, num))
         else:
             heappush(back_heap, (num, num))
+        print(left,right)
 
         if len(back_heap) != 0 and front_heap[0][1] > back_heap[0][1]:
             temp = heappop(front_heap)[1]
