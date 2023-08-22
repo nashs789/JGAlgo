@@ -18,7 +18,7 @@ distance.sort(key=lambda x:x[1])
 hopeset = []
 result = 0
 
-for i in distance: 
+for i in distance:
     if not hopeset:
         hq.heappush(hopeset, i)
     else:

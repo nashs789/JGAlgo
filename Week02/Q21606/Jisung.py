@@ -36,6 +36,9 @@ for _ in range(N-1):
 # 2. 주어진 두 점이 실내인 경우
     # 실내실내이므로 +2해준다.
 
+# 순서
+# 1.
+
 
 def dfs(v,cnt):
     visited[v] = True
