@@ -51,27 +51,30 @@ from heapq import heappush, heappop
 
 if __name__ == "__main__":
     N = int(sys.stdin.readline())
-    data, pQueue = [], []
+    info_list = []
 
     for _ in range(N):
         x, y = map(int, sys.stdin.readline().split())
         if x > y:
             x, y = y, x
-        data.append((x, y - x))
+        info_list.append((x, y))
 
     L = int(sys.stdin.readline())
-    max_cnt = 0
+    info_list.sort(key = lambda y : y[1])
+    max_val = 0
     roads = []
 
-    for val in data:
-        if val[1] <= L:
-            heappush(pQueue, val)
+    for val in info_list:
+        srt, end = val
+        print(srt, end)
+        heappush(roads, srt)
 
-    temp = []
+        while True:
+            if len(roads) != 0 and roads[0] < end - L:
+                heappop(roads)
+            else:
+                break
 
-    while len(pQueue) != 0:
-        road = heappop(pQueue)
-
-        
-
-    print(max_cnt)
+            max_val = max(max_val, len(roads))
+    
+    print(max_val)
