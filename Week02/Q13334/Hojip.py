@@ -26,7 +26,7 @@ for i in givenList :
             heapq.heappop(heap)
         else :
             break
-        result = max(result, len(heap))
+    result = max(result, len(heap))
 
 print(result)
 
