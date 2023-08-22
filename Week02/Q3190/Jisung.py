@@ -4,21 +4,21 @@ import sys
 from collections import deque
 
 input = sys.stdin.readline
-
 N = int(input())
 K = int(input())
-apple = [list(map(int,input().split())) for x in range(K)]
-apple.sort()
+graph = [[False]*(N+1) for i in range(N+1)]
+for i in range(K):
+    x,y = map(int, input().split())
+    graph[x][y] = True
 L = int(input())
 change = deque([list(map(str,input().split())) for y in range(L)])
-snake = deque([[1,1],[1,1]])
+snake = deque([[1,1]])
 
 
 def Dummy(snake,N,apple,change):
 
     direction = [[0,1],[1,0],[0,-1],[-1,0]]
     di_num = 0
-
     sec = 0
     temp_x = 0
     temp_y = 0
@@ -30,19 +30,16 @@ def Dummy(snake,N,apple,change):
         temp_y = snake[0][1]
         temp_x += direction[di_num][0]
         temp_y += direction[di_num][1]
-        snake.appendleft([temp_x,temp_y])
         # 자기몸이랑 겹치는지 확인
-        for i in range(1,len(snake)):
-            if temp_x==snake[i][0] and temp_y==snake[i][1]:
-                return sec
+        if [temp_x,temp_y] in snake:
+            return sec
+        snake.appendleft([temp_x,temp_y])
         snake.pop()
 
 
         # 사과를 먹었을 때 한줄 늘리기
-        if len(apple)>0:
-            if snake[0]==apple[0]:
-                apple.pop(0)
-                snake.append(snake[-1])
+        if graph[temp_x][temp_y]==True:
+            snake.append([temp_x,temp_y])
         
         # 회전
         if len(change)>0:

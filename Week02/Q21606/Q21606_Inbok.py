@@ -49,12 +49,11 @@ def dfs(node):
 
     for linked_node in adj[node]:
         if not visited[linked_node]:
-            visited[linked_node] = True
-            
             if in_out[linked_node] == "1":
                 cnt += 1
                 continue
-
+            
+            visited[linked_node] = True
             dfs(linked_node)
     
 
@@ -77,13 +76,10 @@ if __name__ == "__main__":
             answer += 2
 
     for node, info in enumerate(in_out):
-        if info == "0":
+        if info == "0" and not visited[node]:
             cnt = 0
             dfs(node)
             
-            if cnt == 2:
-                answer += 1
-            else:
-                answer += cnt * (cnt -1)
+            answer += cnt * (cnt -1)
 
     print(answer)
