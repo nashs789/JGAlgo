@@ -94,7 +94,7 @@
 |31|08-24|[18352](https://www.acmicpc.net/problem/18352)|특정 거리의 도시 찾기|Silver 2|✅|❌|❌|❌|
 |32|08-24|[1916](https://www.acmicpc.net/problem/1916)|최소비용 구하기|Gold 5|✅|❌|❌|❌|
 |33|08-24|[2665](https://www.acmicpc.net/problem/2665)|미로 만들기|Gold 4|✅|❌|❌|❌|
-|34|08-24|[7569](https://www.acmicpc.net/problem/7569)|토마토|Gold 5|❌|❌|❌|❌|
+|34|08-24|[7569](https://www.acmicpc.net/problem/7569)|토마토|Gold 5|✅|❌|❌|❌|
 |35|08-24|[3055](https://www.acmicpc.net/problem/3055)|탈출|Gold 4|❌|❌|❌|❌|
 |36|08-24|[2294](https://www.acmicpc.net/problem/2294)|동전 2|Gold 5|❌|❌|❌|❌|
 |37|08-24|[2252](https://www.acmicpc.net/problem/2252)|줄 세우기|Gold 3|❌|❌|❌|❌|
