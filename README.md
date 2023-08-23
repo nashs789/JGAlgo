@@ -86,13 +86,13 @@
 |23|08-24|[2606](https://www.acmicpc.net/problem/2606)|바이러스|Silver 3|✅|✅|✅|✅|
 |24|08-24|[11725](https://www.acmicpc.net/problem/11725)|트리의 부모 찾기|Silver 2|✅|✅|✅|✅|
 |25|08-24|[1707](https://www.acmicpc.net/problem/1707)|이분 그래프|Gold 4|✅|✅|✅|✅|
-|26|08-24|[21606](https://www.acmicpc.net/problem/21606)|아침 산책|Gold 3|✅|❌|⚠️|✅|
-|27|08-24|[14888](https://www.acmicpc.net/problem/14888)|연산자 끼워넣기|Silver 1|✅|❌|✅|❌|
-|28|08-24|[2573](https://www.acmicpc.net/problem/2573)|빙산|Gold 4|✅|❌|❌|❌|
+|26|08-24|[21606](https://www.acmicpc.net/problem/21606)|아침 산책|Gold 3|✅|⚠️|⚠️|✅|
+|27|08-24|[14888](https://www.acmicpc.net/problem/14888)|연산자 끼워넣기|Silver 1|✅|✅|✅|❌|
+|28|08-24|[2573](https://www.acmicpc.net/problem/2573)|빙산|Gold 4|✅|⚠️|❌|❌|
 |29|08-24|[2617](https://www.acmicpc.net/problem/2617)|구슬 찾기|Gold 4|⚠️|❌|❌|❌|
 |30|08-24|[2178](https://www.acmicpc.net/problem/2178)|미로 탐색|Silver 1|✅|✅|⚠️|✅|
 |31|08-24|[18352](https://www.acmicpc.net/problem/18352)|특정 거리의 도시 찾기|Silver 2|✅|✅|✅|❌|
-|32|08-24|[1916](https://www.acmicpc.net/problem/1916)|최소비용 구하기|Gold 5|✅|❌|❌|❌|
+|32|08-24|[1916](https://www.acmicpc.net/problem/1916)|최소비용 구하기|Gold 5|✅|✅|❌|❌|
 |33|08-24|[2665](https://www.acmicpc.net/problem/2665)|미로 만들기|Gold 4|✅|❌|❌|❌|
 |34|08-24|[7569](https://www.acmicpc.net/problem/7569)|토마토|Gold 5|✅|❌|❌|❌|
 |35|08-24|[3055](https://www.acmicpc.net/problem/3055)|탈출|Gold 4|✅|❌|❌|❌|
