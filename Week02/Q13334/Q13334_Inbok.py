@@ -46,7 +46,6 @@
 #     print(max_cnt)
 
 import sys
-from queue import PriorityQueue
 from heapq import heappush, heappop
 
 if __name__ == "__main__":
@@ -60,21 +59,17 @@ if __name__ == "__main__":
         info_list.append((x, y))
 
     L = int(sys.stdin.readline())
-    info_list.sort(key = lambda y : y[1])
+    info_list.sort(key = lambda y : (y[1], y[0]))
     max_val = 0
     roads = []
 
     for val in info_list:
         srt, end = val
-        print(srt, end)
         heappush(roads, srt)
 
-        while True:
-            if len(roads) != 0 and roads[0] < end - L:
-                heappop(roads)
-            else:
-                break
+        while roads and roads[0] < end - L:
+            heappop(roads)
 
-            max_val = max(max_val, len(roads))
+        max_val = max(max_val, len(roads))
     
     print(max_val)
