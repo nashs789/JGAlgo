@@ -4,24 +4,26 @@ from collections import deque
 input = sys.stdin.readline
 
 n,k=map(int,input().split())
-result = sys.maxsize
+coins = [int(input()) for _ in range(n)]
+check = [0 for _ in range(10001)]
 
-coin = [int(input()) for _ in range(n)]
-
-def bfs(x,cnt):
+def bfs():
     q = deque()
-    q.append((x,0))
+    for coin in coins:
+        cnt = 1
+        q.append((coin,cnt))
+        check[coin] = 1
     while q:
         new,cnt = q.popleft()
-        cnt += 1
         if new==k:
             return cnt
-        
-        for i in coin:
-            if new + i < k:
-                q.append((new+i,cnt))
-
-for i in coin:
-    result = min(result, bfs(i,0))
-print(result)
-        
+        for i in coins:
+            sums = new + i
+            if sums > k:
+                continue
+            elif check[sums]==0:
+                check[sums] = 1
+                q.append((sums,cnt+1))
+    return -1
+    
+print(bfs())
