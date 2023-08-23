@@ -34,4 +34,4 @@ def dijkstra(start) :
                 
 dijkstra(start)
 
-print(distance[end])
+print(distance)
