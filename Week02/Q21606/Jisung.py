@@ -3,11 +3,7 @@ sys.setrecursionlimit(10**8)
 input = sys.stdin.readline
 
 N = int(input())
-inside = str(input().rstrip())
-is_inside = [0]
-for i in inside:
-	is_inside.append(int(i))
-
+is_inside = [0] + list(map(int,input().strip()))
 visited = [False] * (N+1)
 graph = [[] for _ in range(N+1)]
 count = 0
@@ -36,23 +32,20 @@ for _ in range(N-1):
 # 2. 주어진 두 점이 실내인 경우
     # 실내실내이므로 +2해준다.
 
-# 순서
-# 1.
-
 
 def dfs(v,cnt):
     visited[v] = True
     for i in graph[v]:
-        if is_inside[i]==1:
-            cnt += 1
-        elif not visited[i] and is_inside[i] == 0:
-            cnt = dfs(i,cnt)
+        if is_inside[i]==1:	# 해당 노드의 위치가 실내이면
+            cnt += 1		# 실내 개수 카운트에 +1 해준다.
+        elif not visited[i] and is_inside[i] == 0:		# 방문하지 않았고 해당 i점의 위치가 실외라면.
+            cnt = dfs(i,cnt)			# 해당 실외점을 기준으로 dfs를 돈다.
     return cnt
 
 
-sums=0
-for j in range(1,N):
-    if is_inside[j]==0 and not visited[j]:
-        x = dfs(j,0)
-        sums += x*(x-1)
+sums = 0
+for j in range(1,N+1):
+    if is_inside[j]==0 and not visited[j]:	# 실외를 기준으로
+        x = dfs(j,0)				# 현재 cnt는 0
+        sums += x*(x-1)				# 실외인 노드를 기준으로 면접 노드 애들 개수 세는 것이 n*(n-1)이므로 실외 노드 걸릴때마다 전부 세기
 print(count+sums)

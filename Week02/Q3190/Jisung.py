@@ -6,16 +6,16 @@ from collections import deque
 input = sys.stdin.readline
 N = int(input())
 K = int(input())
-graph = [[False]*(N+1) for i in range(N+1)]
+graph = [[False]*(N+1) for _ in range(N+1)]
 for i in range(K):
     x,y = map(int, input().split())
     graph[x][y] = True
 L = int(input())
-change = deque([list(map(str,input().split())) for y in range(L)])
+change = deque([list(map(str,input().split())) for _ in range(L)])
 snake = deque([[1,1]])
 
 
-def Dummy(snake,N,apple,change):
+def Dummy(snake,N,change):
 
     direction = [[0,1],[1,0],[0,-1],[-1,0]]
     di_num = 0
