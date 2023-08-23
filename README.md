@@ -97,7 +97,7 @@
 |34|08-24|[7569](https://www.acmicpc.net/problem/7569)|토마토|Gold 5|✅|⚠️|⚠️|❌|
 |35|08-24|[3055](https://www.acmicpc.net/problem/3055)|탈출|Gold 4|✅|❌|⚠️|❌|
 |36|08-24|[2294](https://www.acmicpc.net/problem/2294)|동전 2|Gold 5|⚠️|❌|❌|❌|
-|37|08-24|[2252](https://www.acmicpc.net/problem/2252)|줄 세우기|Gold 3|❌|❌|❌|❌|
+|37|08-24|[2252](https://www.acmicpc.net/problem/2252)|줄 세우기|Gold 3|✅|❌|❌|❌|
 |38|08-24|[2637](https://www.acmicpc.net/problem/2637)|장난감조립|Gold 2|❌|❌|❌|❌|
 |39|08-24|[1432](https://www.acmicpc.net/problem/1432)|그래프 수정|Platinum 4|❌|❌|❌|❌|
 |40|08-24|[1948](https://www.acmicpc.net/problem/1948)|임계경로|Platinum 5|❌|❌|❌|❌|
