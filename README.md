@@ -61,10 +61,10 @@
 
 |No|기한|문제번호|문제명|난이도|이인복|백기찬|장호영|팀리뷰
 |:-:|------|:-----:|-------|:-----:|:-----:|:-----:|:-----:|:-----:|
-|1|08-30|[2748](https://www.acmicpc.net/problem/2748)|피보나치 수 2|Bronze 1|❌|❌|❌|❌|
-|2|08-30|[1904](https://www.acmicpc.net/problem/1904)|01타일|Silver 3|❌|❌|❌|❌|
-|3|08-30|[9655](https://www.acmicpc.net/problem/9655)|돌 게임|Silver 5|❌|❌|❌|❌|
-|4|08-30|[2624](https://www.acmicpc.net/problem/2624)|동전 바꿔주기|Gold 5|❌|❌|❌|❌|
+|1|08-30|[2748](https://www.acmicpc.net/problem/2748)|피보나치 수 2|Bronze 1|✅|❌|❌|❌|
+|2|08-30|[1904](https://www.acmicpc.net/problem/1904)|01타일|Silver 3|✅|❌|❌|❌|
+|3|08-30|[9655](https://www.acmicpc.net/problem/9655)|돌 게임|Silver 5|✅|❌|❌|❌|
+|4|08-30|[2624](https://www.acmicpc.net/problem/2624)|동전 바꿔주기|Gold 5|⚠️|❌|❌|❌|
 |5|08-30|[9084](https://www.acmicpc.net/problem/9084)|동전|Gold 5|❌|❌|❌|❌|
 |6|08-30|[2294](https://www.acmicpc.net/problem/2294)|동전 2|Gold 5|✅|❌|❌|❌|
 |7|08-30|[9251](https://www.acmicpc.net/problem/9251)|LCS|Gold 5|❌|❌|❌|❌|
