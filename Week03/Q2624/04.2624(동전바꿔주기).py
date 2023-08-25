@@ -1,16 +1,22 @@
-#모르겠어요
+import sys
 
-T = int(input())
-K = int(input())
-dp = [0] * (T+1)
-dp[0] = 1
+t = int(sys.stdin.readline())
+k = int(sys.stdin.readline())
+coins = []
+dp=[0]*(t+1)
+dp[0]=1
 
-for _ in range(K):
+
+
+
+for _ in range(k):
     p, n = map(int, input().split())
-    
-    for i in range(T, -1, -1):
-        j = 1
-        while j <= n and i - p * j >= 0:
-            dp[i] += dp[i- p * j]
-            j+=1
-print(dp[T])
+    coins.append((p,n))
+
+for coin,cnt in coins:
+    for money in range(t,0,-1):
+        for i in range(1,cnt+1):
+            if money-coin*i>=0:
+                dp[money]+=dp[money-coin*i]
+
+print(dp[t])

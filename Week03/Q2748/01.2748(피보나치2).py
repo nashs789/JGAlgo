@@ -1,8 +1,8 @@
-#import sys
+# import sys
 
-#n = int(sys.stdin.readline())
+# n = int(sys.stdin.readline())
 
-#일반 피보나치
+
 # def fibo(n):
     
 #     if n==1 or n==2:
@@ -33,20 +33,19 @@ ans = fibo2(n)
 print(ans) 
 
 
-# #답은 맞았는데 틀린코드
+
 # import sys
 
 # n = int(sys.stdin.readline())
 
 # def fibo2(n):
-#     f = [0] * (n)  # 리스트 초기화
-    
+#     f = [0] * (n+2)  # 리스트 초기화
+
 #     f[1] = 1
 #     f[2] = 1
     
-#     for i in range(3, n):
+#     for i in range(3, n+1):
 #         f[i] = f[i - 1] + f[i - 2]
-    
 #     return f[n]
 
 # ans = fibo2(n)
