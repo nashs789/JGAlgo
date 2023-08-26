@@ -68,7 +68,7 @@
 |4|08-30|[2624](https://www.acmicpc.net/problem/2624)|동전 바꿔주기|Gold 5|⚠️|⚠️|⚠️|✅|
 |5|08-30|[9084](https://www.acmicpc.net/problem/9084)|동전|Gold 5|✅|❌|✅|❌|
 |6|08-30|[2294](https://www.acmicpc.net/problem/2294)|동전 2|Gold 5|✅|❌|✅|✅|
-|7|08-30|[9251](https://www.acmicpc.net/problem/9251)|LCS|Gold 5|❌|❌|✅|❌|
+|7|08-30|[9251](https://www.acmicpc.net/problem/9251)|LCS|Gold 5|✅|❌|✅|❌|
 |8|08-30|[9252](https://www.acmicpc.net/problem/9252)|LCS 2|Gold 4|❌|❌|⚠️|❌|
 |9|08-30|[11053](https://www.acmicpc.net/problem/11053)|가장 긴 증가하는 부분 수열|Silver 2|❌|❌|❌|❌|
 |10|08-30|[16500](https://www.acmicpc.net/problem/16500)|문자열 판별|Gold 5|❌|❌|❌|❌|
