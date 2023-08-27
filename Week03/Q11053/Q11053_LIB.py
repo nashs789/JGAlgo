@@ -9,7 +9,6 @@ if __name__ == "__main__":
         for j in range(0, i):
             if num_list[i] > num_list[j]:
                 dp[i] = max(dp[i], dp[j])
-                max_value = dp[i] + 1
         dp[i] += 1
         
     print(max(dp))
