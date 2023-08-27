@@ -5,8 +5,7 @@
 ### ** 🗓매일 회고 규칙**
 - 장소: 정글 휴게실
 - 시간: 매일
-    - 11:00 PM 
-    - 17:00 PM
+    - 14:00 PM
     - 22:00 PM 
 - 무엇을?
     - 알고리즘 문제 풀이중 새롭게 알게된 사실 팀원드과 공유
@@ -70,8 +69,8 @@
 |6|08-30|[2294](https://www.acmicpc.net/problem/2294)|동전 2|Gold 5|✅|❌|✅|✅|
 |7|08-30|[9251](https://www.acmicpc.net/problem/9251)|LCS|Gold 5|✅|❌|✅|✅|
 |8|08-30|[9252](https://www.acmicpc.net/problem/9252)|LCS 2|Gold 4|⚠️|❌|⚠️|✅|
-|9|08-30|[11053](https://www.acmicpc.net/problem/11053)|가장 긴 증가하는 부분 수열|Silver 2|✅|❌|❌|❌|
-|10|08-30|[16500](https://www.acmicpc.net/problem/16500)|문자열 판별|Gold 5|⚠️|❌|❌|❌|
+|9|08-30|[11053](https://www.acmicpc.net/problem/11053)|가장 긴 증가하는 부분 수열|Silver 2|✅|❌|❌|✅|
+|10|08-30|[16500](https://www.acmicpc.net/problem/16500)|문자열 판별|Gold 5|⚠️|❌|❌|✅|
 |11|08-30|[2629](https://www.acmicpc.net/problem/2629)|양팔저울|Gold 3|⚠️|❌|❌|❌|
 |12|08-30|[10942](https://www.acmicpc.net/problem/10942)|팰린드롬?|Gold 4|⚠️|❌|❌|❌|
 |13|08-30|[1509](https://www.acmicpc.net/problem/1509)|팰린드롬 분할|Gold 1|❌|❌|❌|❌|
