@@ -6,7 +6,7 @@
 - 장소: 정글 휴게실
 - 시간: 매일
     - 11:00 PM 
-    - 16:00 PM
+    - 17:00 PM
     - 22:00 PM 
 - 무엇을?
     - 알고리즘 문제 풀이중 새롭게 알게된 사실 팀원드과 공유
@@ -62,17 +62,17 @@
 
 |No|기한|문제번호|문제명|난이도|이인복|백기찬|장호영|팀리뷰
 |:-:|------|:-----:|-------|:-----:|:-----:|:-----:|:-----:|:-----:|
-|1|08-30|[2748](https://www.acmicpc.net/problem/2748)|피보나치 수 2|Bronze 1|✅|❌|❌|❌|
-|2|08-30|[1904](https://www.acmicpc.net/problem/1904)|01타일|Silver 3|✅|❌|❌|❌|
-|3|08-30|[9655](https://www.acmicpc.net/problem/9655)|돌 게임|Silver 5|✅|❌|❌|❌|
-|4|08-30|[2624](https://www.acmicpc.net/problem/2624)|동전 바꿔주기|Gold 5|⚠️|❌|❌|❌|
-|5|08-30|[9084](https://www.acmicpc.net/problem/9084)|동전|Gold 5|❌|❌|❌|❌|
-|6|08-30|[2294](https://www.acmicpc.net/problem/2294)|동전 2|Gold 5|✅|❌|❌|❌|
-|7|08-30|[9251](https://www.acmicpc.net/problem/9251)|LCS|Gold 5|❌|❌|❌|❌|
-|8|08-30|[9252](https://www.acmicpc.net/problem/9252)|LCS 2|Gold 4|❌|❌|❌|❌|
-|9|08-30|[11053](https://www.acmicpc.net/problem/11053)|가장 긴 증가하는 부분 수열|Silver 2|❌|❌|❌|❌|
-|10|08-30|[16500](https://www.acmicpc.net/problem/16500)|문자열 판별|Gold 5|❌|❌|❌|❌|
-|11|08-30|[2629](https://www.acmicpc.net/problem/2629)|양팔저울|Gold 3|❌|❌|❌|❌|
+|1|08-30|[2748](https://www.acmicpc.net/problem/2748)|피보나치 수 2|Bronze 1|✅|✅|✅|✅|
+|2|08-30|[1904](https://www.acmicpc.net/problem/1904)|01타일|Silver 3|✅|✅|✅|✅|
+|3|08-30|[9655](https://www.acmicpc.net/problem/9655)|돌 게임|Silver 5|✅|✅|✅|✅|
+|4|08-30|[2624](https://www.acmicpc.net/problem/2624)|동전 바꿔주기|Gold 5|⚠️|⚠️|⚠️|✅|
+|5|08-30|[9084](https://www.acmicpc.net/problem/9084)|동전|Gold 5|✅|❌|✅|✅|
+|6|08-30|[2294](https://www.acmicpc.net/problem/2294)|동전 2|Gold 5|✅|❌|✅|✅|
+|7|08-30|[9251](https://www.acmicpc.net/problem/9251)|LCS|Gold 5|✅|❌|✅|✅|
+|8|08-30|[9252](https://www.acmicpc.net/problem/9252)|LCS 2|Gold 4|⚠️|❌|⚠️|✅|
+|9|08-30|[11053](https://www.acmicpc.net/problem/11053)|가장 긴 증가하는 부분 수열|Silver 2|✅|❌|❌|❌|
+|10|08-30|[16500](https://www.acmicpc.net/problem/16500)|문자열 판별|Gold 5|⚠️|❌|❌|❌|
+|11|08-30|[2629](https://www.acmicpc.net/problem/2629)|양팔저울|Gold 3|⚠️|❌|❌|❌|
 |12|08-30|[10942](https://www.acmicpc.net/problem/10942)|팰린드롬?|Gold 4|❌|❌|❌|❌|
 |13|08-30|[1509](https://www.acmicpc.net/problem/1509)|팰린드롬 분할|Gold 1|❌|❌|❌|❌|
 |14|08-30|[11049](https://www.acmicpc.net/problem/11049)|행렬 곱셈 순서|Gold 3|❌|❌|❌|❌|
@@ -81,7 +81,7 @@
 |17|08-30|[12920](https://www.acmicpc.net/problem/12920)|평범한 배낭 2|Platinum 4|❌|❌|❌|❌|
 |18|08-30|[2098](https://www.acmicpc.net/problem/2098)|외판원 순회|Gold 1|❌|❌|❌|❌|
 |19|08-30|[2253](https://www.acmicpc.net/problem/2253)|점프|Gold 4|❌|❌|❌|❌|
-|20|08-30|[11047](https://www.acmicpc.net/problem/11047)|동전 0|Silver 4|❌|❌|❌|❌|
+|20|08-30|[11047](https://www.acmicpc.net/problem/11047)|동전 0|Silver 4|❌|✅|❌|❌|
 |21|08-30|[1541](https://www.acmicpc.net/problem/1541)|잃어버린 괄호|Silver 2|❌|❌|❌|❌|
 |22|08-30|[1931](https://www.acmicpc.net/problem/1931)|회의실 배정|Silver 1|❌|❌|❌|❌|
 |23|08-30|[1946](https://www.acmicpc.net/problem/1946)|신입사원|Silver 1|❌|❌|❌|❌|
