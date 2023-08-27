@@ -7,8 +7,6 @@ dp=[0]*(t+1)
 dp[0]=1
 
 
-
-
 for _ in range(k):
     p, n = map(int, input().split())
     coins.append((p,n))
