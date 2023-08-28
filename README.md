@@ -75,8 +75,8 @@
 |12|08-30|[10942](https://www.acmicpc.net/problem/10942)|팰린드롬?|Gold 4|⚠️|❌|⚠️|✅|
 |13|08-30|[1509](https://www.acmicpc.net/problem/1509)|팰린드롬 분할|Gold 1|⚠️|❌|❌|❌|
 |14|08-30|[11049](https://www.acmicpc.net/problem/11049)|행렬 곱셈 순서|Gold 3|❌|❌|❌|❌|
-|15|08-30|[2169](https://www.acmicpc.net/problem/2169)|로봇 조종하기|Gold 2|❌|❌|❌|❌|
-|16|08-30|[12865](https://www.acmicpc.net/problem/12865)|평범한 배낭|Gold 5|❌|❌|❌|❌|
+|15|08-30|[2169](https://www.acmicpc.net/problem/2169)|로봇 조종하기|Gold 2|⚠️|❌|❌|❌|
+|16|08-30|[12865](https://www.acmicpc.net/problem/12865)|평범한 배낭|Gold 5|⚠️|❌|❌|❌|
 |17|08-30|[12920](https://www.acmicpc.net/problem/12920)|평범한 배낭 2|Platinum 4|❌|❌|❌|❌|
 |18|08-30|[2098](https://www.acmicpc.net/problem/2098)|외판원 순회|Gold 1|❌|❌|❌|❌|
 |19|08-30|[2253](https://www.acmicpc.net/problem/2253)|점프|Gold 4|❌|❌|❌|❌|
