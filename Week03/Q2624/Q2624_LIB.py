@@ -16,7 +16,7 @@ if __name__ == "__main__":
 
                 if target < 0:
                     break
-
-                dp[won] +=  dp[target]
+                
+                dp[won] += dp[target]
 
     print(dp[T])

@@ -12,5 +12,8 @@ if __name__ == "__main__":
         dp[0] = 1
 
         for coin in coins:
-            for won in range(M, 0, -1):
-                dp[won] = 
+            for won in range(1, M + 1):
+                if won >= coin:
+                    dp[won] += dp[won - coin]
+        
+        print(dp[M])
