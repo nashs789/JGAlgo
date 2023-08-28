@@ -80,8 +80,8 @@
 |17|08-30|[12920](https://www.acmicpc.net/problem/12920)|평범한 배낭 2|Platinum 4|❌|❌|❌|❌|
 |18|08-30|[2098](https://www.acmicpc.net/problem/2098)|외판원 순회|Gold 1|❌|❌|❌|❌|
 |19|08-30|[2253](https://www.acmicpc.net/problem/2253)|점프|Gold 4|❌|❌|❌|❌|
-|20|08-30|[11047](https://www.acmicpc.net/problem/11047)|동전 0|Silver 4|❌|✅|❌|❌|
-|21|08-30|[1541](https://www.acmicpc.net/problem/1541)|잃어버린 괄호|Silver 2|❌|❌|❌|❌|
+|20|08-30|[11047](https://www.acmicpc.net/problem/11047)|동전 0|Silver 4|✅|✅|❌|❌|
+|21|08-30|[1541](https://www.acmicpc.net/problem/1541)|잃어버린 괄호|Silver 2|✅|❌|❌|❌|
 |22|08-30|[1931](https://www.acmicpc.net/problem/1931)|회의실 배정|Silver 1|❌|❌|❌|❌|
 |23|08-30|[1946](https://www.acmicpc.net/problem/1946)|신입사원|Silver 1|❌|❌|❌|❌|
 |24|08-30|[1781](https://www.acmicpc.net/problem/1781)|컵라면|Gold 2|❌|❌|❌|❌|
