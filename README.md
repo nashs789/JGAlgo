@@ -71,9 +71,9 @@
 |8|08-30|[9252](https://www.acmicpc.net/problem/9252)|LCS 2|Gold 4|⚠️|❌|⚠️|✅|
 |9|08-30|[11053](https://www.acmicpc.net/problem/11053)|가장 긴 증가하는 부분 수열|Silver 2|✅|❌|❌|✅|
 |10|08-30|[16500](https://www.acmicpc.net/problem/16500)|문자열 판별|Gold 5|⚠️|❌|❌|✅|
-|11|08-30|[2629](https://www.acmicpc.net/problem/2629)|양팔저울|Gold 3|⚠️|❌|❌|❌|
-|12|08-30|[10942](https://www.acmicpc.net/problem/10942)|팰린드롬?|Gold 4|⚠️|❌|❌|❌|
-|13|08-30|[1509](https://www.acmicpc.net/problem/1509)|팰린드롬 분할|Gold 1|❌|❌|❌|❌|
+|11|08-30|[2629](https://www.acmicpc.net/problem/2629)|양팔저울|Gold 3|⚠️|❌|❌|✅|
+|12|08-30|[10942](https://www.acmicpc.net/problem/10942)|팰린드롬?|Gold 4|⚠️|❌|❌|✅|
+|13|08-30|[1509](https://www.acmicpc.net/problem/1509)|팰린드롬 분할|Gold 1|⚠️|❌|❌|❌|
 |14|08-30|[11049](https://www.acmicpc.net/problem/11049)|행렬 곱셈 순서|Gold 3|❌|❌|❌|❌|
 |15|08-30|[2169](https://www.acmicpc.net/problem/2169)|로봇 조종하기|Gold 2|❌|❌|❌|❌|
 |16|08-30|[12865](https://www.acmicpc.net/problem/12865)|평범한 배낭|Gold 5|❌|❌|❌|❌|
