@@ -11,7 +11,6 @@ for i in range(n-1):
     if arr[i] == arr[i+1]:
         table[i][i+1]=True
 
-
 for t in range(n-2):
     for i in range(n-2-t):
         j= i+t+2
