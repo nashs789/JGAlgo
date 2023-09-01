@@ -22,7 +22,8 @@
         [ console ]
         0x16b36f3da
 
-### 사진 1 ###
+![사진1](https://github.com/nashs789/JGAlgo/assets/59809278/6120afe7-3464-4b3b-a70e-a635d793b729)
+
 1. 0x66에서 참조할(저장된) 주소를 확인한다.
 2. 0x6C로 이동해서 2Byte 만큼의 크기에서 작업한다.
     - 포인터 변수 p의 자료형이 short 이기 때문에
