@@ -1,23 +1,18 @@
 import sys
-input = sys.stdin.readline
-
 N = int(input())
-matrix = []
-dp = [[0] * (N) for _ in range(N)]
+arr = [list(map(int, sys.stdin.readline().split())) for _ in range(N)]
 
-for i in range(N):
-    matrix.append(list(map(int, input().split())))
+dp = [[0]*(N) for _ in range(N)]
 
-for i in range(1, N): # 몇 번째 대각선?
-    for j in range(0, N-i): # 대각선에서 몇 번째 열?
-        if i == 1:
-            dp[j][j+i] = matrix[j][0] * matrix[j][1] * matrix[j+i][1]
-            continue
+for term in range(1, N):
+    for start in range(N):  # 첫행렬 : i, 끝행렬: i+term
+        if start + term == N:  # 범위를 벗어나면 무시
+            break
+
+        dp[start][start+term] = int(1e9)  # 지금 계산할 첫행렬과 끝행렬
         
-        dp[j][j+i] = sys.maxsize #(최댓값으로 배치)
-        for k in range(j, j+i):
-            print(j, j+i)
-            dp[j][j+i] = min(dp[j][j+i], 
-                             dp[j][k] + dp[k+1][j+i] + matrix[j][0] * matrix[k][1] * matrix[j+i][1])
+        for t in range(start, start+term):
+            dp[start][start+term] = min(dp[start][start+term],
+                                        dp[start][t]+dp[t+1][start+term] + arr[start][0] * arr[t][1] * arr[start+term][1])
 
 print(dp[0][N-1])
