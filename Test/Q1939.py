@@ -39,6 +39,7 @@ if __name__ == "__main__":
 
     while left <= right:
         mid = (left + right) // 2
+        print(left, "    ", mid, "    ", right)
 
         if bfs(srt, end, mid):
             max_weight = max(mid, max_weight)
