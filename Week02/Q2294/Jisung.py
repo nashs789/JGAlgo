@@ -5,7 +5,7 @@ input = sys.stdin.readline
 
 n,k=map(int,input().split())
 coins = [int(input()) for _ in range(n)]
-check = [0 for _ in range(10001)]
+check = [0 for _ in range(100001)]
 
 def bfs():
     q = deque()
