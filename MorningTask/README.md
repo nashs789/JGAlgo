@@ -15,13 +15,13 @@
 
 # **[ 🗓 Morning Coding Test ]**|
 
-|Day|플랫폼|문제번호|문제명|난이도|이름|현황
-|:-:|------|:-----:|-------|:-----:|:-----:|:-----:|
-|1|백준|[2467](https://www.acmicpc.net/problem/2467)|용액|Gold 5|🐷이인복|✅|
-||프로그래머스|[154549](https://school.programmers.co.kr/learn/courses/30/lessons/154539)|뒤에 있는 큰 수 찾기|Lv 2|김지성|❌|
-||프로그래머스|[181188](https://school.programmers.co.kr/learn/courses/30/lessons/181188)|요격 시스템|Lv 2|장호영|❌|
-||백준|[2110](https://www.acmicpc.net/problem/2110)|공유기 설치|Gold 4|정다희|❌|
-|2|백준|[2293](https://www.acmicpc.net/problem/2293)|동전1|Gold 5|🐷이인복|❌|
-||프로그래머스|[154549](https://school.programmers.co.kr/learn/courses/30/lessons/154539)|뒤에 있는 큰 수 찾기|Lv 2|김지성|????|
-||프로그래머스|[181188](https://school.programmers.co.kr/learn/courses/30/lessons/181188)|요격 시스템|Lv 2|장호영|????|
-||백준|[2110](https://www.acmicpc.net/problem/2110)|공유기 설치|Gold 4|정다희|☑️|
+|Day|플랫폼|문제번호|문제명|난이도|이름|현황|출석
+|:-:|------|:-----:|-------|:-----:|:-----:|:-----:|:-----:|
+|1|백준|[2467](https://www.acmicpc.net/problem/2467)|용액|Gold 5|🐷이인복|✅|[x] : true|
+||프로그래머스|[154549](https://school.programmers.co.kr/learn/courses/30/lessons/154539)|뒤에 있는 큰 수 찾기|Lv 2|김지성|❌|[x] : true|
+||프로그래머스|[181188](https://school.programmers.co.kr/learn/courses/30/lessons/181188)|요격 시스템|Lv 2|장호영|❌|[x] : true|
+||백준|[2110](https://www.acmicpc.net/problem/2110)|공유기 설치|Gold 4|정다희|❌|[x] : true|
+|2|백준|[2293](https://www.acmicpc.net/problem/2293)|동전1|Gold 5|🐷이인복|❌|[x] : true|
+||프로그래머스|[154549](https://school.programmers.co.kr/learn/courses/30/lessons/154539)|뒤에 있는 큰 수 찾기|Lv 2|김지성|????|[x] : true|
+||프로그래머스|[181188](https://school.programmers.co.kr/learn/courses/30/lessons/181188)|요격 시스템|Lv 2|장호영|????|[x] : true|
+||백준|[2110](https://www.acmicpc.net/problem/2110)|공유기 설치|Gold 4|정다희|☑️|[x] : true|
