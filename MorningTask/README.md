@@ -1,10 +1,11 @@
 # **[📌 아이콘 의미 ]**
-- ✅: By Myself
-- ⚠️: By help
-- ❌: Can not or Not yet
+- ✅: By Myself (자력으로 해결)
+- ☑️: By Hint (문제 접근 방법 참조해서 해결)
+- ⚠️: By By referencing other's code (다른 사람 코드 참조해서 해결)
+- ❌: Can not Without help (시도는 했지만 해결 x)
 
 # **[ 🗓 Week01 일정 ]**|
 
-|No|기한|문제번호|문제명|난이도|이인복|정동환|이현진
-|:-:|------|:-----:|-------|:-----:|:-----:|:-----:|:-----:|
-|1|08-11|[2557](https://www.acmicpc.net/problem/2557)|Hello World|Bronze 5|✅|✅|✅|
+|Day|플랫폼|문제번호|문제명|난이도|이름|현황
+|:-:|------|:-----:|-------|:-----:|:-----:|:-----:|
+|Day-1|백준|[2467](https://www.acmicpc.net/problem/2467)|용액|Gold 5|이인복|✅|
