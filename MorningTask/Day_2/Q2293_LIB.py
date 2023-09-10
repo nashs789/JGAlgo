@@ -12,8 +12,7 @@ if __name__ == "__main__":
 
     for coin in coins:
         for idx in range(coin, k + 1):
-            if idx - coin > 0:
+            if idx - coin >= 0:
                 dp[idx] += dp[idx - coin]
-        print(dp)
 
-    print(dp)
+    print(dp[k])
