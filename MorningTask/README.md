@@ -10,7 +10,7 @@
 # **[📌 아이콘 의미 ]**
 - ✅: By Myself (자력으로 해결) & 출석
 - ☑️: By Hint (문제 접근 방법 참조해서 해결)
-- ⚠️: By By referencing other's code (다른 사람 코드 참조해서 해결)
+- ⚠️: By By referencing other's code (다른 사람 코드 참조해서 해결) & 지각
 - ❌: Can not Without help (시도는 했지만 해결 x) & 미출석
 
 # **[ 🗓 Morning Coding Test ]**|
@@ -25,3 +25,7 @@
 ||프로그래머스|[154549](https://school.programmers.co.kr/learn/courses/30/lessons/154539)|뒤에 있는 큰 수 찾기|Lv 2|김지성|????|✅|
 ||프로그래머스|[181188](https://school.programmers.co.kr/learn/courses/30/lessons/181188)|요격 시스템|Lv 2|장호영|????|✅|
 ||백준|[2110](https://www.acmicpc.net/problem/2110)|공유기 설치|Gold 4|정다희|☑️|✅|
+|3|백준|[2293](https://www.acmicpc.net/problem/2293)|동전1|Gold 5|🐷이인복|✅|⚠️|
+||프로그래머스|[154549](https://school.programmers.co.kr/learn/courses/30/lessons/154539)|뒤에 있는 큰 수 찾기|Lv 2|김지성|????|⚠️|
+||프로그래머스|[181188](https://school.programmers.co.kr/learn/courses/30/lessons/181188)|요격 시스템|Lv 2|장호영|????|✅|
+||백준|[????](https://www.acmicpc.net/problem/????)|????|????|정다희|????|⚠️|
