@@ -30,6 +30,6 @@
 ||프로그래머스|[181188](https://school.programmers.co.kr/learn/courses/30/lessons/181188)|요격 시스템|Lv 2|장호영|☑️|✅|
 ||백준|[2110](https://www.acmicpc.net/problem/2110)|공유기 설치|Gold 4|정다희🙊|✅|⚠️|
 |4|백준|[1463](https://www.acmicpc.net/problem/1463)|1로 만들기|Silver 3|이인복🐷|✅|✅|
-||프로그래머스|[154548](https://school.programmers.co.kr/learn/courses/30/lessons/154538)|????|????|김지성🐯|????|????|
+||프로그래머스|[154548](https://school.programmers.co.kr/learn/courses/30/lessons/154538)|숫자 변환하기|Lv 2|김지성🐯|❌|✅|
 ||프로그래머스|❌|❌|❌|장호영|❌|❌|
 ||백준|[](https://www.acmicpc.net/problem/)|????|????|정다희🙊|✅|✅|
