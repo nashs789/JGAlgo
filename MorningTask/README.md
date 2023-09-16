@@ -38,4 +38,4 @@
 ||백준|[1259](https://www.acmicpc.net/problem/1259)|팰린드롬수|????|장호영🐰|✅|✅|
 ||백준|[2470](https://www.acmicpc.net/problem/2470)|두 용액|????|정다희🙊|❌|⚠️|
 |6|백준|[1940](https://www.acmicpc.net/problem/1940)|주몽|Silver 4|이인복🐷|✅|✅|
-||백준|[1546](https://www.acmicpc.net/problem/1546)|평균|Silver 1|장호영🐰|✅|✅|
+||백준|[1546](https://www.acmicpc.net/problem/1546)|평균|Silver 1|장호영🐰|✅|⚠️|
