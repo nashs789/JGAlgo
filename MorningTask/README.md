@@ -32,8 +32,8 @@
 |4|백준|[1463](https://www.acmicpc.net/problem/1463)|1로 만들기|Silver 3|이인복🐷|✅|✅|
 ||프로그래머스|[154548](https://school.programmers.co.kr/learn/courses/30/lessons/154538)|숫자 변환하기|Lv 2|김지성🐯|❌|✅|
 ||프로그래머스|❌|❌|❌|장호영🐰|❌|❌|
-||백준|[](https://www.acmicpc.net/problem/2110)|공유기 설치|Gold 4|정다희🙊|✅|✅|
+||백준|[2110](https://www.acmicpc.net/problem/2110)|공유기 설치|Gold 4|정다희🙊|✅|✅|
 |5|백준|[2018](https://www.acmicpc.net/problem/2018)|수들의 합5|Silver 5|이인복🐷|✅|✅|
-||백준|[2467](https://www.acmicpc.net/problem/2467)|용액|Gold 5|김지성🐯|❌|✅|
-||백준|????|????|????|장호영🐰|❌|✅|
-||백준|????|????|????|정다희🙊|✅|✅|
+||백준|[2467](https://www.acmicpc.net/problem/2467)|용액|Gold 5|김지성🐯|❌|✅||❌|✅|
+||백준|[1259](https://www.acmicpc.net/problem/1259)|팰린드롬수|????|장호영🐰|✅|✅|
+||백준|[2470](https://www.acmicpc.net/problem/2470)|두 용액|????|정다희🙊|❌|⚠️|
