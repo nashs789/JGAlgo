@@ -40,9 +40,9 @@
 |6|백준|[1940](https://www.acmicpc.net/problem/1940)|주몽|Silver 4|이인복🐷|✅|✅|
 ||백준|[1546](https://www.acmicpc.net/problem/1546)|평균|Silver 1|장호영🐰|✅|⚠️|
 ||백준|[2470](https://www.acmicpc.net/problem/2470)|두 용액|????|정다희🙊|✅|✅|
-||백준|[2467](https://www.acmicpc.net/problem/2467)|용액|Gold 5|김지성🐯|❌|✅|
-|7|백준|[1940](https://www.acmicpc.net/problem/1940)|주몽|Silver 4|이인복🐷|✅|✅|
+||백준|[2467](https://www.acmicpc.net/problem/2467)|용액|Gold 5|김지성🐯|✅|✅|
+|7|백준|[1940](https://www.acmicpc.net/problem/1940)|주몽|Silver 4|이인복🐷|❌|❌|
 ||백준|[2869](https://www.acmicpc.net/problem/2869)|달팽이는 올라가고싶다.|Bronze 1|장호영🐰|⚠️|✅|
 ||백준|[2470](https://www.acmicpc.net/problem/2470)|두 용액|????|정다희🙊|✅|✅|
-||백준|[2467](https://www.acmicpc.net/problem/2467)|용액|Gold 5|김지성🐯|❌|✅|
+||백준|[1300](https://www.acmicpc.net/problem/1300)|용액|Gold 5|김지성🐯|❌|✅|
 
