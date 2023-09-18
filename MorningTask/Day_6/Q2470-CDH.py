@@ -27,4 +27,4 @@ while(start < end): # 0,4
     else:
         end-=1
 
-print(resultArr[0], resultArr[1]);
+print(resultArr[0], resultArr[1]);       
