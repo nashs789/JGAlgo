@@ -45,4 +45,4 @@
 ||백준|[2869](https://www.acmicpc.net/problem/2869)|달팽이는 올라가고싶다.|Bronze 1|장호영🐰|⚠️|✅|
 ||백준|[2470](https://www.acmicpc.net/problem/2470)|두 용액|????|정다희🙊|✅|✅|
 ||백준|[1300](https://www.acmicpc.net/problem/1300)|용액|Gold 5|김지성🐯|❌|✅|
-
+|8|백준|[1005](https://www.acmicpc.net/problem/1005)|ACM Craft|Gold 3|이인복🐷|⚠️|✅|
